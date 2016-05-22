@@ -1,0 +1,9 @@
+project:
+  name: check-install
+
+server:
+  port: 5000
+  publicFolder: 'public/'
+
+log:
+  level: 'DEBUG'
